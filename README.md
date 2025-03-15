@@ -1,0 +1,1 @@
+# SeamCarve-Intelligent-Image-Resizing
